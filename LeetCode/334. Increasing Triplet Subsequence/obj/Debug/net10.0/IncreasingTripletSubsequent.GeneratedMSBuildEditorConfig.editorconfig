@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IncreasingTripletSubsequent
+build_property.ProjectDir = /Users/Lia/Desktop/Nothing/data_structure_algorithms/LeetCode/334. Increasing Triplet Subsequence/
